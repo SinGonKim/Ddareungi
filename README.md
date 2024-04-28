@@ -2,13 +2,13 @@
 Improvement of predicting peoples’ bycicle tickets
 
 # Setting
-you should download train, dataset
+You should download train, dataset
 (https://drive.google.com/drive/folders/1CxTcm4XPdX8V5EDW0Uuy19gzYzLUmK4j?usp=sharing)
 
 
 # How to run
 
-main.py --gpu=0 --train_subject=1
+python main.py --gpu=0 --train_subject=1
 
 
 
